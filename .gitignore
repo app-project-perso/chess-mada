@@ -25,4 +25,3 @@ dist-ssr
 
 .env.local
 .env
-public/stockfish-18-single.wasm
